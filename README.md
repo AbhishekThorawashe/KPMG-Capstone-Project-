@@ -1,0 +1,2 @@
+# KPMG-Capstone-Project-
+In this project, analysing and forecasting sales of pesticides for a domestic pesticide manufacturing company (ABC Manufacturing) and analysing variables that impact the sales of the product. This will enable the pesticide company to manage the production to meet growth/slowdown in sales as per your sales forecast Time Series Analysis Machine learning Algorithm Used for project
